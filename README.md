@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=مرحباً%2C+أنا+يونس+ضاعني+👋;Hello%2C+I'm+Younis+Dany+👋;مبرمج+أنظمة+ومطور+واجهات;Systems+Programmer+%26+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=مرحباً%2C+أنا+يونس+ضاعني+👋;Hello%2C+I\'m+Younis+Dany+👋;مبرمج+أنظمة+ومطور+واجهات;Systems+Programmer+%26+Frontend+Developer;دعنا+نصنع+شيئاً+مذهلاً+معاً!;Let\'s+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -68,7 +68,7 @@ My goal: Write simple, clear code that solves real problems 🚀
 🛠️ الأدوات اللي أشتغل عليها | My Tech Stack
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,vscode,github,figma,photoshop&theme=dark" />
 </div>
 
 <br>
@@ -196,4 +196,49 @@ My goal: Write simple, clear code that solves real problems 🚀
 
 
 </div>
+
+<!-- GitHub Trophy -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YounisDany&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+</div>
+
+<!-- WakaTime Stats -->
+
+<div align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime"/>
+</div>
+
+<!-- Lanyard (Discord Status) - Requires setup -->
+
+<!-- <div align="center">
+  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status"/>
+</div> -->
+
+<!-- Interactive Badges (Example - requires custom setup) -->
+
+<!-- <div align="center">
+  <a href="#" class="animated-badge">Click Me!</a>
+</div> -->
+
+<style>
+/* Basic CSS for potential custom elements - will not work directly in GitHub README */
+/* For more advanced animations, consider using external tools or GIFs */
+.animated-badge {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #58A6FF;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+.animated-badge:hover {
+  transform: scale(1.1);
+  background-color: #79c0ff;
+}
+</style>
 
