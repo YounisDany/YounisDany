@@ -9,6 +9,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=مرحباً%2C+أنا+يونس+ضاعني+👋;Hello%2C+I\"m+Younis+Dany+👋;مبرمج+أنظمة+ومطور+واجهات;Systems+Programmer+%26+Frontend+Developer;دعنا+نصنع+شيئاً+مذهلاً+معاً!;Let\"s+build+something+amazing+together!" alt="Typing SVG" />
 </div>
+[![committers.top badge](https://user-badge.committers.top/yemen/YounisDany.svg)](https://user-badge.committers.top/yemen/YounisDany)
 
 <br>
 
