@@ -1,21 +1,9 @@
 <div align="center">
 
-# 👋 مرحباً بك في عالمي الرقمي! | Hello, Welcome to My Digital World!
+# █ █████████ [ACCESS GRANTED] █████████ █
 
-<!-- Typing Animation Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=أنا+يونس+ضاعني;مطور+ويب+مبدع;مهتم+بالأمن+السيبراني;أهلاً+بك+في+ملفي+الشخصي" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 من أنا؟ | About Me
-
-أنا **يونس ضاعني**، مطور ويب شغوف بالتقنيات الحديثة، متخصص في بناء حلول برمجية متكاملة. أركز على الجمع بين **الكفاءة العالية** في الكود و**التصميم الجذاب** في الواجهات.
-
-> **شغفي**: تحويل الأفكار المعقدة إلى تطبيقات بسيطة وسلسة الاستخدام.
+<!-- Typing Animation Header - Mysterious/Hacker Theme -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=435&lines=YounisDany%3A+System+Architect;Digital+Ghost;Code+is+Law;Initiating+Protocol+303" alt="Typing SVG" />
 
 </div>
 
@@ -23,18 +11,30 @@
 
 <div align="center">
 
-## 🛠️ صندوق أدواتي المتكامل | My Comprehensive Tech Stack
+## 🖧 IDENTITY: CLASSIFIED | ABOUT ME
 
-أتقن العمل على مجموعة واسعة من التقنيات، من الواجهات الأمامية التفاعلية إلى الأنظمة الخلفية القوية، بالإضافة إلى اهتمامي بمجالات الأمن السيبراني والذكاء الاصطناعي.
+I am **Younis Dany**, a digital architect operating in the shadows of the web. My focus is on **System Integrity**, **Advanced Automation**, and **Cyber-Reconnaissance**. I specialize in turning complex vulnerabilities into robust, secure solutions.
 
-### اللغات والأطر | Languages & Frameworks
+> **Motto**: "The greatest secrets are always hidden in the most unlikely places."
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙️ ARSENAL: ENCRYPTED TOOLS | MY TECH STACK
+
+My toolkit is designed for precision and stealth, covering full-stack development with a strong emphasis on security and system-level operations.
+
+### Languages & Frameworks | Primary Protocols
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,laravel,mysql,git,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,laravel,mysql,git,docker,linux&theme=dark&perline=8" />
 </p>
 
-### الأدوات والمنصات | Tools & Platforms
+### Utilities & Platforms | Operational Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma,photoshop,ai,tensorflow,kali,aws,gcp,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,photoshop,ai,tensorflow,kali,aws,gcp,postman&theme=dark&perline=8" />
 </p>
 
 </div>
@@ -43,22 +43,22 @@
 
 <div align="center">
 
-## 📊 إحصائياتي على GitHub | My GitHub Stats
+## 📈 OPERATION LOGS | GITHUB STATS
 
-لنجعلها أكثر حيوية! إليك نظرة على نشاطي وإنجازاتي على GitHub.
+Analyzing the digital footprint. These metrics reflect operational efficiency and commitment to the craft.
 
-<!-- Enhanced GitHub Stats Card (Using a vibrant theme like 'aura' or 'midnight-purple') -->
-<img src="https://github-readme-stats.vercel.app/api?username=YounisDany&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&rank_icon=github" width="400"/>
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisDany&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" width="400"/>
+<!-- GitHub Stats Card - Using 'Dracula' theme for a dark, mysterious look -->
+<img src="https://github-readme-stats.vercel.app/api?username=YounisDany&show_icons=true&theme=dracula&hide_border=true&bg_color=191A21&title_color=FF79C6&icon_color=50FA7B&text_color=F8F8F2&rank_icon=github" width="400"/>
+<!-- Top Languages Card - Dracula Theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisDany&layout=compact&theme=dracula&hide_border=true&bg_color=191A21&title_color=FF79C6&text_color=F8F8F2" width="400"/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YounisDany&theme=midnight-purple&hide_border=true&background=0D1117&stroke=BB86FC&ring=BB86FC&fire=FF6B6B&currStreakLabel=BB86FC" width="800"/>
+<!-- GitHub Streak Stats - Dracula Theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YounisDany&theme=dracula&hide_border=true&background=191A21&stroke=FF79C6&ring=50FA7B&fire=FF5555&currStreakLabel=FF79C6" width="800"/>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YounisDany&theme=midnight-purple&hide_border=true&bg_color=0D1117&color=BB86FC&line=BB86FC&point=FF6B6B" width="800"/>
+<!-- GitHub Activity Graph - Dracula Theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YounisDany&theme=dracula&hide_border=true&bg_color=191A21&color=FF79C6&line=50FA7B&point=FF5555" width="800"/>
 
-<!-- GitHub Trophy Card -->
+<!-- GitHub Trophy Card - Dark Theme -->
 <img src="https://github-profile-trophy.vercel.app/?username=YounisDany&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
@@ -67,15 +67,15 @@
 
 <div align="center">
 
-## ✨ مشاريع مختارة | Featured Projects
+## 📂 CLASSIFIED OPERATIONS | FEATURED PROJECTS
 
-هذه بعض المشاريع التي أفتخر بها:
+Projects that define my operational capabilities. Access is restricted.
 
-| المشروع | التقنيات المستخدمة | الوصف |
+| Operation Name | Primary Protocols | Status |
 | :---: | :---: | :---: |
-| **🏢 نظام حضور وانصراف** | `PHP`, `MySQL` | واجهة أنيقة + API متكامل لإدارة الحضور والانصراف. |
-| **🔐 نظام صلاحيات متقدم** | `JavaScript`, `PHP` | نظام دقيق لإدارة المستخدمين والصلاحيات في التطبيقات. |
-| **✨ صفحات هبوط متحركة** | `GSAP`, `CSS3` | تصميم صفحات هبوط احترافية باستخدام أنميشن ناعم وسلس. |
+| **Attendance System** | `PHP`, `MySQL` | **[DECRYPTED]** - High-precision time-tracking solution. |
+| **Permissions System** | `JavaScript`, `PHP` | **[SECURED]** - Multi-level access control architecture. |
+| **Animated Landing Pages** | `GSAP`, `CSS3` | **[DEPLOYED]** - High-impact visual data delivery. |
 
 </div>
 
@@ -83,24 +83,24 @@
 
 <div align="center">
 
-## 📬 تواصل معي | Get In Touch
+## 📡 ENCRYPTED CHANNELS | GET IN TOUCH
 
-أحب التواصل وتبادل الخبرات! لا تتردد في مراسلتي.
+Initiate contact only through secured channels.
 
 <a href="https://younis-dany.com">
-  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://wa.me/966558147903">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SIGNAL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 <a href="https://instagram.com/vuodv">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SECURE_FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-<!-- Dynamic Quote Card -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=أؤمن%20أن%20البساطة%20في%20الكود%2C%20والوضوح%20في%20النظام%2c%20هما%20مفتاح%20البرمجة%20الذكية&author=يونس%20ضاعني"/>
+<!-- Dynamic Quote Card - Mysterious/Hacker Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=In+the+digital+realm%2C+silence+is+the+loudest+form+of+communication.&author=Younis+Dany"/>
 
 </div>
 
@@ -108,23 +108,23 @@
 
 <div align="center">
 
-## 📈 إضافات حيوية | Live Widgets
+## 👁️ WATCHERS LOG | LIVE WIDGETS
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=YounisDany&style=for-the-badge&color=BB86FC&label=Profile+Views"/>
+<!-- Visitor Counter - Dark Theme -->
+<img src="https://komarev.com/ghpvc/?username=YounisDany&style=for-the-badge&color=FF79C6&label=ACCESS+ATTEMPTS"/>
 
-<!-- GitHub Snake Animation (Animated Image) -->
-<img src="https://raw.githubusercontent.com/YounisDany/YounisDany/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- GitHub Snake Animation (Animated Image) - Dark Theme -->
+<img src="https://raw.githubusercontent.com/YounisDany/YounisDany/output/github-contribution-grid-snake-dracula.svg" alt="Snake animation" />
 
-<!-- WakaTime Placeholder - لإظهار إحصائيات وقت البرمجة، يرجى استبدال YOUR_WAKATIME_ID بمعرف WakaTime الخاص بك -->
+<!-- WakaTime Placeholder - Replace YOUR_WAKATIME_ID -->
 <!-- <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime"/> -->
 
-<!-- Discord Status Placeholder - لإظهار حالة Discord، يرجى استبدال YOUR_DISCORD_ID بمعرف Discord الخاص بك -->
+<!-- Discord Status Placeholder - Replace YOUR_DISCORD_ID -->
 <!-- <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status"/> -->
 
 </div>
 
-<!-- Footer Wave (More vibrant color) -->
+<!-- Footer Wave - Cyber/Hacker Colors -->
 <div align="center">
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BB86FC,58A6FF,0D1117&height=200&section=footer&animation=twinkling"/>
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF79C6,50FA7B,191A21&height=200&section=footer&animation=twinkling"/>
 </div>
