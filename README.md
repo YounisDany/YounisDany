@@ -75,9 +75,9 @@ Showcasing my capability in delivering functional and elegant web solutions.
 
 | Project Name | Primary Technologies | Focus |
 | :---: | :---: | :---: |
-| **Attendance System** | `PHP`, `MySQL` | **[BACKEND]** - High-precision time-tracking solution. |
-| **Permissions System** | `JavaScript`, `PHP` | **[FULL STACK]** - Multi-level access control architecture. |
-| **Animated Landing Pages** | `GSAP`, `CSS3` | **[FRONTEND]** - High-impact visual data delivery. |
+| **[Trading Plan Website](https://github.com/Younisdany/trading-plan-website)** | `JavaScript`, `HTML/CSS` | **[FRONTEND]** - Professional Financial Web Tool. |
+| **[Lawyers Office Platform](https://github.com/Younisdany/multi-lawyers-office)** | `PHP`, `MySQL` | **[FULL STACK]** - Integrated Legal Management System. |
+| **[Lama Project](https://github.com/Younisdany/lama)** | `HTML`, `CSS` | **[DESIGN]** - High-Impact Web Design Showcase. |
 
 </div>
 
