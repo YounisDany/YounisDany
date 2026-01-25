@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/cyber_banner.png" width="100%" alt="Cyber Banner" />
+
 # █ █████████ [ACCESS GRANTED] █████████ █
 
 <!-- Typing Animation Header - Mysterious/Hacker Theme -->
