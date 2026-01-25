@@ -1,131 +1,91 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Younis%20Dany%20|%20يونس%20ضاعني&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Systems%20Programmer%20%26%20Frontend%20Developer&descAlignY=60&descSize=20"/>
+# 👋 مرحباً بك في عالمي الرقمي! | Hello, Welcome to My Digital World!
+
+<!-- Typing Animation Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=أنا+يونس+ضاعني;مطور+ويب+مبدع;مهتم+بالأمن+السيبراني;أهلاً+بك+في+ملفي+الشخصي" alt="Typing SVG" />
 
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=مرحباً%2C+أنا+يونس+ضاعني+👋;Hello%2C+I\"m+Younis+Dany+👋;مبرمج+أنظمة+ومطور+واجهات;Systems+Programmer+%26+Frontend+Developer;دعنا+نصنع+شيئاً+مذهلاً+معاً!;Let\"s+build+something+amazing+together!" alt="Typing SVG" />
-</div>
+---
 
-### 🏆 ترتيبي في اليمن
-[![committers.top badge](https://user-badge.committers.top/yemen/YounisDany.svg)](https://user-badge.committers.top/yemen/YounisDany)
-
-<br>
-
-<!-- About Me Section -->
-<div align="center">
-  
-## 🧠 من أنا؟ | Who Am I?
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 العربية
-- أبرمج باستخدام: **HTML، CSS، JavaScript، PHP، MySQL**
-- أصمم واجهات تشبه التطبيقات الجوالة 📱
-- أشتغل على أنظمة حضور وانصراف، إدارة صلاحيات 🧩
-- هدفي: أكتب كود بسيط وواضح، يحل مشاكل حقيقية 🚀
-
-</td>
-<td width="50%">
-
-### 🔧 English
-- I code with: **HTML, CSS, JavaScript, PHP, MySQL**
-- I design mobile-like interfaces 📱
-- I work on attendance systems, permission management 🧩
-- My goal: Write simple, clear code that solves real problems 🚀
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Skills Section with Animation -->
 <div align="center">
 
-## 🛠️ الأدوات اللي أشتغل عليها | My Tech Stack
+## 🚀 من أنا؟ | About Me
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,vscode,github,figma,photoshop&theme=dark" />
-</div>
+أنا **يونس ضاعني**، مطور ويب شغوف بالتقنيات الحديثة، متخصص في بناء حلول برمجية متكاملة. أركز على الجمع بين **الكفاءة العالية** في الكود و**التصميم الجذاب** في الواجهات.
 
-<br>
-
-<!-- Animated Skill Bars -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisDany&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="400"/>
+> **شغفي**: تحويل الأفكار المعقدة إلى تطبيقات بسيطة وسلسة الاستخدام.
 
 </div>
 
-<!-- Projects Section -->
+---
+
 <div align="center">
 
-## 🚀 مشاريع مختارة | Featured Projects
+## 🛠️ صندوق أدواتي المتكامل | My Comprehensive Tech Stack
 
-<table>
-<tr>
-<td width="33%">
-<div align="center">
-<h3>🏢 نظام حضور وانصراف</h3>
-<p><strong>Attendance System</strong></p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<br><br>
-<p>واجهة أنيقة + API متكامل</p>
-<p><em>Elegant interface + Integrated API</em></p>
-</div>
-</td>
+أتقن العمل على مجموعة واسعة من التقنيات، من الواجهات الأمامية التفاعلية إلى الأنظمة الخلفية القوية، بالإضافة إلى اهتمامي بمجالات الأمن السيبراني والذكاء الاصطناعي.
 
-<td width="33%">
-<div align="center">
-<h3>🔐 نظام صلاحيات</h3>
-<p><strong>Permissions System</strong></p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<br><br>
-<p>إدارة مستخدمين بدقة</p>
-<p><em>Precise user management</em></p>
-</div>
-</td>
+### اللغات والأطر | Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,laravel,mysql,git,docker,linux&theme=dark" />
+</p>
 
-<td width="33%">
-<div align="center">
-<h3>✨ صفحات هبوط متحركة</h3>
-<p><strong>Animated Landing Pages</strong></p>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<br><br>
-<p>أنميشن ناعم وسلس</p>
-<p><em>Smooth and fluid animations</em></p>
-</div>
-</td>
-</tr>
-</table>
+### الأدوات والمنصات | Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,photoshop,ai,tensorflow,kali,aws,gcp,postman&theme=dark" />
+</p>
 
 </div>
 
-<!-- GitHub Stats -->
+---
+
 <div align="center">
 
 ## 📊 إحصائياتي على GitHub | My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YounisDany&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400"/>
+لنجعلها أكثر حيوية! إليك نظرة على نشاطي وإنجازاتي على GitHub.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YounisDany&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="400"/>
+<!-- Enhanced GitHub Stats Card (Using a vibrant theme like 'aura' or 'midnight-purple') -->
+<img src="https://github-readme-stats.vercel.app/api?username=YounisDany&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&rank_icon=github" width="400"/>
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounisDany&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" width="400"/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YounisDany&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="800"/>
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YounisDany&theme=midnight-purple&hide_border=true&background=0D1117&stroke=BB86FC&ring=BB86FC&fire=FF6B6B&currStreakLabel=BB86FC" width="800"/>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YounisDany&theme=midnight-purple&hide_border=true&bg_color=0D1117&color=BB86FC&line=BB86FC&point=FF6B6B" width="800"/>
+
+<!-- GitHub Trophy Card -->
+<img src="https://github-profile-trophy.vercel.app/?username=YounisDany&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
-<!-- Contact Section -->
+---
+
+<div align="center">
+
+## ✨ مشاريع مختارة | Featured Projects
+
+هذه بعض المشاريع التي أفتخر بها:
+
+| المشروع | التقنيات المستخدمة | الوصف |
+| :---: | :---: | :---: |
+| **🏢 نظام حضور وانصراف** | `PHP`, `MySQL` | واجهة أنيقة + API متكامل لإدارة الحضور والانصراف. |
+| **🔐 نظام صلاحيات متقدم** | `JavaScript`, `PHP` | نظام دقيق لإدارة المستخدمين والصلاحيات في التطبيقات. |
+| **✨ صفحات هبوط متحركة** | `GSAP`, `CSS3` | تصميم صفحات هبوط احترافية باستخدام أنميشن ناعم وسلس. |
+
+</div>
+
+---
+
 <div align="center">
 
 ## 📬 تواصل معي | Get In Touch
+
+أحب التواصل وتبادل الخبرات! لا تتردد في مراسلتي.
 
 <a href="https://younis-dany.com">
   <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -137,72 +97,34 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-
 <br><br>
 
-<!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=أؤمن%20أن%20البساطة%20في%20الكود%2C%20والوضوح%20في%20النظام%2c%20هما%20مفتاح%20البرمجة%20الذكية&author=يونس%20ضاعني"/>
+<!-- Dynamic Quote Card -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=أؤمن%20أن%20البساطة%20في%20الكود%2C%20والوضوح%20في%20النظام%2c%20هما%20مفتاح%20البرمجة%20الذكية&author=يونس%20ضاعني"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 📈 إضافات حيوية | Live Widgets
 
 <!-- Visitor Counter -->
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=YounisDany&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=YounisDany&style=for-the-badge&color=BB86FC&label=Profile+Views"/>
+
+<!-- GitHub Snake Animation (Animated Image) -->
+<img src="https://raw.githubusercontent.com/YounisDany/YounisDany/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- WakaTime Placeholder - لإظهار إحصائيات وقت البرمجة، يرجى استبدال YOUR_WAKATIME_ID بمعرف WakaTime الخاص بك -->
+<!-- <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime"/> -->
+
+<!-- Discord Status Placeholder - لإظهار حالة Discord، يرجى استبدال YOUR_DISCORD_ID بمعرف Discord الخاص بك -->
+<!-- <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status"/> -->
 
 </div>
 
-<!-- Footer Wave -->
+<!-- Footer Wave (More vibrant color) -->
 <div align="center">
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling"/>
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BB86FC,58A6FF,0D1117&height=200&section=footer&animation=twinkling"/>
 </div>
-
-<!-- Snake Animation -->
-<div align="center">
-  
-![Snake animation](https://github.com/YounisDany/YounisDany/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<!-- GitHub Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YounisDany&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-</div>
-
-<!-- WakaTime Stats -->
-<div align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime"/>
-</div>
-
-<!-- Lanyard (Discord Status) - Requires setup -->
-<!-- <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status"/>
-</div> -->
-
-<!-- Interactive Badges (Example - requires custom setup) -->
-<!-- <div align="center">
-  <a href="#" class="animated-badge">Click Me!</a>
-</div> -->
-
-<style>
-/* Basic CSS for potential custom elements - will not work directly in GitHub README */
-/* For more advanced animations, consider using external tools or GIFs */
-.animated-badge {
-  display: inline-block;
-  padding: 10px 20px;
-  margin: 10px;
-  border-radius: 5px;
-  background-color: #58A6FF;
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-  transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
-}
-
-.animated-badge:hover {
-  transform: scale(1.1);
-  background-color: #79c0ff;
-}
-</style>
-
-
